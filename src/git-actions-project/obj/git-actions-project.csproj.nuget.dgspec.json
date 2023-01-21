@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/christopher.ogbosuka/Github/git-actions-project/src/git-actions-project/git-actions-project.csproj": {}
+    "/Users/christopher.ogbosuka/Github/github-action-project/src/git-actions-project/git-actions-project.csproj": {}
   },
   "projects": {
-    "/Users/christopher.ogbosuka/Github/git-actions-project/src/git-actions-project/git-actions-project.csproj": {
+    "/Users/christopher.ogbosuka/Github/github-action-project/src/git-actions-project/git-actions-project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/christopher.ogbosuka/Github/git-actions-project/src/git-actions-project/git-actions-project.csproj",
+        "projectUniqueName": "/Users/christopher.ogbosuka/Github/github-action-project/src/git-actions-project/git-actions-project.csproj",
         "projectName": "git-actions-project",
-        "projectPath": "/Users/christopher.ogbosuka/Github/git-actions-project/src/git-actions-project/git-actions-project.csproj",
+        "projectPath": "/Users/christopher.ogbosuka/Github/github-action-project/src/git-actions-project/git-actions-project.csproj",
         "packagesPath": "/Users/christopher.ogbosuka/.nuget/packages/",
-        "outputPath": "/Users/christopher.ogbosuka/Github/git-actions-project/src/git-actions-project/obj/",
+        "outputPath": "/Users/christopher.ogbosuka/Github/github-action-project/src/git-actions-project/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/christopher.ogbosuka/.nuget/NuGet/NuGet.Config"

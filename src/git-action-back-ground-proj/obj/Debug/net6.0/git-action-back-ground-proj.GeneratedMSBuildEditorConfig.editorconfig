@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = git_action_back_ground_proj
-build_property.ProjectDir = /Users/christopher.ogbosuka/Github/git-actions-project/src/git-action-back-ground-proj/
+build_property.ProjectDir = /Users/christopher.ogbosuka/Github/github-action-project/src/git-action-back-ground-proj/

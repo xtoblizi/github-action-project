@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/christopher.ogbosuka/Github/git-actions-project/src/git-action-back-ground-proj/git-action-back-ground-proj.csproj": {}
+    "/Users/christopher.ogbosuka/Github/github-action-project/src/git-action-back-ground-proj/git-action-back-ground-proj.csproj": {}
   },
   "projects": {
-    "/Users/christopher.ogbosuka/Github/git-actions-project/src/git-action-back-ground-proj/git-action-back-ground-proj.csproj": {
+    "/Users/christopher.ogbosuka/Github/github-action-project/src/git-action-back-ground-proj/git-action-back-ground-proj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/christopher.ogbosuka/Github/git-actions-project/src/git-action-back-ground-proj/git-action-back-ground-proj.csproj",
+        "projectUniqueName": "/Users/christopher.ogbosuka/Github/github-action-project/src/git-action-back-ground-proj/git-action-back-ground-proj.csproj",
         "projectName": "git-action-back-ground-proj",
-        "projectPath": "/Users/christopher.ogbosuka/Github/git-actions-project/src/git-action-back-ground-proj/git-action-back-ground-proj.csproj",
+        "projectPath": "/Users/christopher.ogbosuka/Github/github-action-project/src/git-action-back-ground-proj/git-action-back-ground-proj.csproj",
         "packagesPath": "/Users/christopher.ogbosuka/.nuget/packages/",
-        "outputPath": "/Users/christopher.ogbosuka/Github/git-actions-project/src/git-action-back-ground-proj/obj/",
+        "outputPath": "/Users/christopher.ogbosuka/Github/github-action-project/src/git-action-back-ground-proj/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/christopher.ogbosuka/.nuget/NuGet/NuGet.Config"
