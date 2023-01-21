@@ -9,7 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "git-actions-project", "src\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "git-action-back-ground-proj", "src\git-action-back-ground-proj\git-action-back-ground-proj.csproj", "{19E885ED-A34A-4DD1-8111-E889CF68060A}"
 EndProject
-
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
