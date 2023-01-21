@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "git_action_back_ground_proj": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
