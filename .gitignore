@@ -229,9 +229,8 @@ AppPackages/
 
 obj/
 *obj
-src/git-action-back-ground-proj/obj/Debug/net6.0/git-action-back-ground-proj.csproj.AssemblyReference.cache
-src/git-action-back-ground-proj/obj/Debug/net6.0/git-action-back-ground-proj.csproj.FileListAbsolute.txt
-src/git-action-back-ground-proj/obj/Debug/net6.0/git-action-back-ground-proj.GeneratedMSBuildEditorConfig.editorconfig
-src/git-action-back-ground-proj/obj/git-action-back-ground-proj.csproj.nuget.dgspec.json
-src/git-action-back-ground-proj/obj/project.assets.json
-src/git-action-back-ground-proj/obj/project.nuget.cache
+
+
+src/git-action-back-ground-proj/obj/
+src/git-actions-proj/obj/
+*.cache

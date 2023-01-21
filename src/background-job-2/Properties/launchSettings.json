@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "background_job_2": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
