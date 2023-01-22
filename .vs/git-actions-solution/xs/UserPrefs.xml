@@ -1,6 +1,10 @@
-﻿<Properties StartupConfiguration="{C03F98D6-35D0-491B-A538-E83CF9F21B5D}|Default">
+﻿<Properties StartupConfiguration="{19E885ED-A34A-4DD1-8111-E889CF68060A}|Default">
   <MonoDevelop.Ide.ItemProperties.src.git-actions-project PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="git-actions-solution.sln">
+    <Files>
+      <File FileName=".gitignore" Line="236" Column="8" />
+      <File FileName="git-actions-solution.sln" Line="51" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -11,10 +15,12 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.git-action-back-ground-proj PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.src.background-job-2 FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
