@@ -21,8 +21,8 @@ jobs:
       with:
         dotnet-version: 6.0.x
     - name: Restore dependencies
-      run: dotnet restore
+      run: dotnet restore ./src/background-job-2/background-job-2.csproj
     - name: Build
-      run: dotnet build --no-restore
+      run: dotnet build ./src/background-job-2/background-job-2.csproj --no-restore
     - name: Test
       run: dotnet test --no-build --verbosity normal
